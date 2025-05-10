@@ -1,0 +1,28 @@
+#carrossel1-slides{
+    width: 80%;  
+}
+#carrossel2-slides{
+    width: 80%;
+}
+#carrossel3-slides{
+    width: 80%;
+}
+#carrossel4-slides{
+    width: 80%;
+}
+#carrossel4-slides{
+    width: 80%;
+}
+hr{
+    width: 20%;
+    background-color: rgb(42, 126, 98);
+}
+body{
+    padding: 15px;
+    font-family:'Courier New', Courier, monospace;
+    color: aliceblue;
+    background-image: linear-gradient(to top, rgb(122, 170, 33), rgb(20, 107, 74), #81632b);
+}
+p{
+    padding: 10px;
+}
